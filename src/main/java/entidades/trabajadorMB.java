@@ -11,10 +11,6 @@ package entidades;
  */
 public class trabajadorMB {
 
-    private int id_trabajador;
-    private String dni;
-    private String nombre;
-    private String apellido_paterno;
-    private String apellido_materno;
+    
     
 }
